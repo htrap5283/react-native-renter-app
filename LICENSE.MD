@@ -1,4 +1,4 @@
-# MIT License
+# MITLICENSE
 
 © [2024] [Parth Panchal]
 
